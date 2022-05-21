@@ -10,47 +10,47 @@
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="{{theme.colors.green}}" />
-    <option name="ANNOTATIONS_COLOR" value="fffbf7" />
+    <option name="ANNOTATIONS_COLOR" value="{{theme.colors.base8}}" />
     <option name="CARET_COLOR" value="{{theme.colors.base8}}" />
     <option name="CARET_ROW_COLOR" value="{{theme.colors.base8x0c}}" />
     <option name="CONSOLE_BACKGROUND_KEY" value="{{theme.colors.base2}}" />
     <option name="DELETED_LINES_COLOR" value="{{theme.colors.red}}" />
-    <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
-    <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
+    <option name="DIFF_SEPARATORS_BACKGROUND" value="{{theme.colors.base2}}" />
+    <option name="DIFF_SEPARATORS_TOP_BORDER" value="{{theme.colors.base2}}" />
     <option name="DOCUMENTATION_COLOR" value="{{theme.colors.base3}}" />
     <option name="FILESTATUS_ADDED" value="{{theme.colors.green}}" />
     <option name="FILESTATUS_COPIED" value="{{theme.colors.green}}" />
     <option name="FILESTATUS_DELETED" value="{{theme.colors.base5}}" />
     <option name="FILESTATUS_HIJACKED" value="{{theme.colors.yellow}}" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="{{theme.colors.base5}}" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="{{theme.colors.brown}}" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="{{theme.colors.orange}}" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="{{theme.colors.orange}}" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="{{theme.colors.orange}}" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="{{theme.colors.green}}" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="{{theme.colors.brown}}" />
     <option name="FILESTATUS_MERGED" value="{{theme.colors.purple}}" />
     <option name="FILESTATUS_MODIFIED" value="{{theme.colors.blue}}" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="{{theme.colors.blue}}" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="{{theme.colors.blue}}" />
     <option name="FILESTATUS_SUPPRESSED" value="{{theme.colors.base5}}" />
     <option name="FILESTATUS_SWITCHED" value="{{theme.colors.purple}}" />
-    <option name="FILESTATUS_UNKNOWN" value="f59762" />
+    <option name="FILESTATUS_UNKNOWN" value="{{theme.colors.orange}}" />
     <option name="FILESTATUS_addedOutside" value="{{theme.colors.green}}" />
-    <option name="FILESTATUS_changelistConflict" value="f65f87" />
+    <option name="FILESTATUS_changelistConflict" value="{{theme.colors.pink}}" />
     <option name="FILESTATUS_modifiedOutside" value="{{theme.colors.blue}}" />
     <option name="GUTTER_BACKGROUND" value="{{theme.colors.base2}}" />
     <option name="INDENT_GUIDE" value="{{theme.colors.base8x0c}}" />
     <option name="INFORMATION_HINT" value="{{theme.colors.base3}}" />
     <option name="LINE_NUMBERS_COLOR" value="{{theme.colors.base4}}" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="c1c0c0" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="{{theme.colors.base7}}" />
     <option name="LOOKUP_COLOR" value="{{theme.colors.base3}}" />
-    <option name="METHOD_SEPARATORS_COLOR" value="59575a" />
+    <option name="METHOD_SEPARATORS_COLOR" value="{{theme.colors.base4}}" />
     <option name="MODIFIED_LINES_COLOR" value="{{theme.colors.orange}}" />
-    <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
-    <option name="MT_SUPPRESSED" value="eeffff" />
-    <option name="NOTIFICATION_BACKGROUND" value="19181a" />
-    <option name="NOT_CHANGED" value="939393" />
+    <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="{{theme.colors.brown}}" />
+    <option name="MT_SUPPRESSED" value="{{theme.colors.base8}}" />
+    <option name="NOTIFICATION_BACKGROUND" value="{{theme.colors.base0}}" />
+    <option name="NOT_CHANGED" value="{{theme.colors.base6}}" />
     <option name="QUESTION_HINT" value="{{theme.colors.base3}}" />
     <option name="RECENT_LOCATIONS_SELECTION" value="{{theme.colors.base1}}" />
     <option name="RIGHT_MARGIN_COLOR" value="{{theme.colors.base3}}" />
@@ -81,12 +81,12 @@
     <option name="TEARLINE_COLOR" value="{{theme.colors.base8x0c}}" />
     <option name="TOOLTIP" value="{{theme.colors.base3}}" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="{{theme.colors.base5}}" />
-    <option name="VCS_ANNOTATIONS_COLOR_2" value="59575a" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="{{theme.colors.base4}}" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="{{theme.colors.red}}" />
-    <option name="VCS_ANNOTATIONS_COLOR_4" value="39adb5" />
-    <option name="VCS_ANNOTATIONS_COLOR_5" value="f59762" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="{{theme.colors.mint}}" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="{{theme.colors.orange}}" />
     <option name="VISUAL_INDENT_GUIDE" value="{{theme.colors.base3}}" />
-    <option name="WHITESPACES" value="59575a" />
+    <option name="WHITESPACES" value="{{theme.colors.base4}}" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="{{theme.colors.base5}}" />
   </colors>
   <attributes>
@@ -97,32 +97,32 @@
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="ffd700" />
+        <option name="FOREGROUND" value="{{theme.colors.yellow}}" />
       </value>
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="87cefa" />
+        <option name="FOREGROUND" value="{{theme.colors.cyan}}" />
       </value>
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="da70d6" />
+        <option name="FOREGROUND" value="{{theme.colors.purple}}" />
       </value>
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="ffd700" />
+        <option name="FOREGROUND" value="{{theme.colors.yellow}}" />
       </value>
     </option>
     <option name="ANGLE_BRACKETS_RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="87cefa" />
+        <option name="FOREGROUND" value="{{theme.colors.cyan}}" />
       </value>
     </option>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
       </value>
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
@@ -140,7 +140,7 @@
     </option>
     <option name="BAD_CHARACTER">
       <value>
-        <option name="EFFECT_COLOR" value="f65f87" />
+        <option name="EFFECT_COLOR" value="{{theme.colors.pink}}" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -159,7 +159,7 @@
     </option>
     <option name="BNF_NUMBER">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
       </value>
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">
@@ -176,8 +176,8 @@
     </option>
     <option name="BREADCRUMBS_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="939393" />
-        <option name="BACKGROUND" value="{{theme.colors.base2}}" />
+        <option name="FOREGROUND" value="{{theme.colors.base6}}" />
+        <option name="BACKGROUND" value="{{theme.colors.base1}}" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">
@@ -189,7 +189,7 @@
     <option name="BREADCRUMBS_INACTIVE">
       <value>
         <option name="FOREGROUND" value="{{theme.colors.base4}}" />
-        <option name="BACKGROUND" value="{{theme.colors.base2}}" />
+        <option name="BACKGROUND" value="{{theme.colors.base1}}" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
@@ -242,7 +242,7 @@
     </option>
     <option name="COFFEESCRIPT.THIS">
       <value>
-        <option name="FOREGROUND" value="c1c0c0" />
+        <option name="FOREGROUND" value="{{theme.colors.base7}}" />
         {% if italics %}
         <option name="FONT_TYPE" value="2" />
         {% endif %}
@@ -250,7 +250,7 @@
     </option>
     <option name="CONDITIONALLY_NOT_COMPILED">
       <value>
-        <option name="FOREGROUND" value="536c46" />
+        <option name="FOREGROUND" value="{{theme.colors.dark_green}}" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
@@ -445,7 +445,7 @@
     </option>
     <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -505,7 +505,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -584,7 +584,7 @@
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
-        <option name="EFFECT_COLOR" value="f65f87" />
+        <option name="EFFECT_COLOR" value="{{theme.colors.pink}}" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -629,7 +629,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
         {% if italics %}
         <option name="FONT_TYPE" value="2" />
         {% endif %}
@@ -750,27 +750,27 @@
     </option>
     <option name="EJS_OPEN">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
       </value>
     </option>
     <option name="EJS_OPEN_EQ">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
       </value>
     </option>
     <option name="EJS_OPEN_EQ_EQ">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
       </value>
     </option>
     <option name="EJS_OPEN_EQ_GENERATOR">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
       </value>
     </option>
     <option name="EJS_OPEN_FILTER">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
       </value>
     </option>
     <option name="ELIXIR_BIT">
@@ -825,7 +825,7 @@
     </option>
     <option name="GO_BUILTIN_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
       </value>
     </option>
     <option name="GO_BUILTIN_FUNCTION_CALL">
@@ -882,7 +882,7 @@
     </option>
     <option name="GO_LOCAL_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
       </value>
     </option>
     <option name="GO_LOCAL_FUNCTION">
@@ -910,7 +910,7 @@
     </option>
     <option name="GO_PACKAGE_EXPORTED_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
         {% if italics %}
         <option name="FONT_TYPE" value="2" />
         {% endif %}
@@ -918,7 +918,7 @@
     </option>
     <option name="GO_PACKAGE_LOCAL_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
       </value>
     </option>
     <option name="GO_TYPE_REFERENCE">
@@ -1009,7 +1009,7 @@
     </option>
     <option name="HTTP_HEADER_FIELD_VALUE">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
       </value>
     </option>
     <option name="HTTP_REQUEST_INPUT_FILE">
@@ -1148,7 +1148,7 @@
     </option>
     <option name="JAVA.THIS_SUPER">
       <value>
-        <option name="FOREGROUND" value="c1c0c0"/>
+        <option name="FOREGROUND" value="{{theme.colors.base7}}"/>
         <option name="FONT_TYPE" value="2"/>
       </value>
     </option>
@@ -1170,7 +1170,7 @@
     </option>
     <option name="JS.DEBUGGER_STMT">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
         {% if italics %}
         <option name="FONT_TYPE" value="2" />
         {% endif %}
@@ -1227,7 +1227,7 @@
     </option>
     <option name="JS.THIS_SUPER">
       <value>
-        <option name="FOREGROUND" value="c1c0c0" />
+        <option name="FOREGROUND" value="{{theme.colors.base7}}" />
         {% if italics %}
         <option name="FONT_TYPE" value="2" />
         {% endif %}
@@ -1314,7 +1314,7 @@
     </option>
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
       </value>
     </option>
     <option name="KOTLIN_PACKAGE_FUNCTION_CALL">
@@ -1440,7 +1440,7 @@
     </option>
     <option name="MARKDOWN.AUTO_LINK">
       <value>
-        <option name="FOREGROUND" value="f65f87" />
+        <option name="FOREGROUND" value="{{theme.colors.pink}}" />
       </value>
     </option>
     <option name="MARKDOWN.BULLET_LIST">
@@ -1480,27 +1480,27 @@
     </option>
     <option name="MARKDOWN.IMAGE">
       <value>
-        <option name="FOREGROUND" value="f65f87" />
+        <option name="FOREGROUND" value="{{theme.colors.pink}}" />
       </value>
     </option>
     <option name="MARKDOWN.MAIL_LINK">
       <value>
-        <option name="FOREGROUND" value="f65f87" />
+        <option name="FOREGROUND" value="{{theme.colors.pink}}" />
       </value>
     </option>
     <option name="MARKDOWN.REFERENCE">
       <value>
-        <option name="FOREGROUND" value="f65f87" />
+        <option name="FOREGROUND" value="{{theme.colors.pink}}" />
       </value>
     </option>
     <option name="MARKDOWN.REFERENCE_IMAGE">
       <value>
-        <option name="FOREGROUND" value="f65f87" />
+        <option name="FOREGROUND" value="{{theme.colors.pink}}" />
       </value>
     </option>
     <option name="MARKDOWN.REFERENCE_LINK">
       <value>
-        <option name="FOREGROUND" value="f65f87" />
+        <option name="FOREGROUND" value="{{theme.colors.pink}}" />
       </value>
     </option>
     <option name="MARKDOWN.TEXT">
@@ -1510,7 +1510,7 @@
     </option>
     <option name="MARKDOWN_AUTO_LINK">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1532,7 +1532,7 @@
     </option>
     <option name="MARKDOWN_BOLD">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1568,7 +1568,7 @@
     </option>
     <option name="MARKDOWN_EXPLICIT_LINK">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
       </value>
     </option>
     <option name="MARKDOWN_HEADER_LEVEL_1">
@@ -1622,13 +1622,13 @@
     </option>
     <option name="MARKDOWN_INLINE_HTML">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="MARKDOWN_ITALIC">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
         {% if italics %}
         <option name="FONT_TYPE" value="2" />
         {% endif %}
@@ -1649,7 +1649,7 @@
     </option>
     <option name="MARKDOWN_LINK_DESTINATION">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
       </value>
     </option>
     <option name="MARKDOWN_LINK_LABEL">
@@ -1670,7 +1670,7 @@
     </option>
     <option name="MARKDOWN_LIST_MARKER">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
         {% if italics %}
         <option name="FONT_TYPE" value="2" />
         {% endif %}
@@ -1707,7 +1707,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.ATX_HEADER">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.AUTO_LINK">
@@ -1780,12 +1780,12 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.EMOJI_ID">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.EMOJI_MARKER">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.EXPLICIT_LINK">
@@ -1810,15 +1810,15 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="f59762" />
+        <option name="EFFECT_COLOR" value="{{theme.colors.orange}}" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HRULE">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HTML_BLOCK">
@@ -1900,14 +1900,14 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.JEKYLL_TAG_PARAMETERS">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.LINE_BREAK_SPACES">
       <value>
-        <option name="EFFECT_COLOR" value="f65f87" />
+        <option name="EFFECT_COLOR" value="{{theme.colors.pink}}" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -2120,13 +2120,13 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CAPTION">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CAPTION_MARKER">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN">
@@ -2636,7 +2636,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TOC_OPTION">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
         {% if italics %}
         <option name="FONT_TYPE" value="2" />
         {% endif %}
@@ -2661,7 +2661,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.VERBATIM_LANG">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
         {% if italics %}
         <option name="FONT_TYPE" value="2" />
         {% endif %}
@@ -2764,7 +2764,7 @@
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="939393" />
+        <option name="BACKGROUND" value="{{theme.colors.base6}}" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
@@ -2807,7 +2807,7 @@
     </option>
     <option name="OC.MACRO_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
         {% if italics %}
         <option name="FONT_TYPE" value="2" />
         {% endif %}
@@ -2840,7 +2840,7 @@
     </option>
     <option name="OC.SELFSUPERTHIS">
       <value>
-        <option name="FOREGROUND" value="c1c0c0" />
+        <option name="FOREGROUND" value="{{theme.colors.base7}}" />
         {% if italics %}
         <option name="FONT_TYPE" value="2" />
         {% endif %}
@@ -2895,7 +2895,7 @@
     </option>
     <option name="PHP_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
       </value>
     </option>
     <option name="PHP_EXEC_COMMAND_ID">
@@ -2951,7 +2951,7 @@
     </option>
     <option name="PHP_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
         {% if italics %}
         <option name="FONT_TYPE" value="2" />
         {% endif %}
@@ -2988,7 +2988,7 @@
     </option>
     <option name="PHP_TAG">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
         {% if italics %}
         <option name="FONT_TYPE" value="2" />
         {% endif %}
@@ -3033,7 +3033,7 @@
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
         {% if italics %}
         <option name="FONT_TYPE" value="2" />
         {% endif %}
@@ -3057,7 +3057,7 @@
     </option>
     <option name="PY.SELF_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="c1c0c0" />
+        <option name="FOREGROUND" value="{{theme.colors.base7}}" />
         {% if italics %}
         <option name="FONT_TYPE" value="2" />
         {% endif %}
@@ -3112,32 +3112,32 @@
     </option>
     <option name="REST.FIXED">
       <value>
-        <option name="BACKGROUND" value="{{theme.colors.base2}}" />
+        <option name="BACKGROUND" value="{{theme.colors.base1}}" />
       </value>
     </option>
     <option name="REST.INLINE">
       <value>
-        <option name="BACKGROUND" value="{{theme.colors.base2}}" />
+        <option name="BACKGROUND" value="{{theme.colors.base1}}" />
       </value>
     </option>
     <option name="REST.INTERPRETED">
       <value>
-        <option name="BACKGROUND" value="{{theme.colors.base2}}" />
+        <option name="BACKGROUND" value="{{theme.colors.base1}}" />
       </value>
     </option>
     <option name="RHTML_EXPRESSION_END_ID">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
       </value>
     </option>
     <option name="RHTML_EXPRESSION_START_ID">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
       </value>
     </option>
     <option name="RHTML_OMIT_NEW_LINE_ID">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
         {% if italics %}
         <option name="FONT_TYPE" value="2" />
         {% endif %}
@@ -3145,42 +3145,42 @@
     </option>
     <option name="RHTML_SCRIPTLET_END_ID">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
       </value>
     </option>
     <option name="RHTML_SCRIPTLET_START_ID">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="ffd700" />
+        <option name="FOREGROUND" value="{{theme.colors.yellow}}" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="87cefa" />
+        <option name="FOREGROUND" value="{{theme.colors.cyan}}" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="da70d6" />
+        <option name="FOREGROUND" value="{{theme.colors.purple}}" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="ffd700" />
+        <option name="FOREGROUND" value="{{theme.colors.yellow}}" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="87cefa" />
+        <option name="FOREGROUND" value="{{theme.colors.cyan}}" />
       </value>
     </option>
     <option name="RUBY_BAD_CHARACTER">
       <value>
-        <option name="EFFECT_COLOR" value="f65f87" />
+        <option name="EFFECT_COLOR" value="{{theme.colors.pink}}" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -3194,7 +3194,7 @@
     </option>
     <option name="RUBY_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
       </value>
     </option>
     <option name="RUBY_CONSTANT_DECLARATION">
@@ -3228,7 +3228,7 @@
     <option name="RUBY_HEREDOC_CONTENT">
       <value>
         <option name="FOREGROUND" value="{{theme.colors.base8}}" />
-        <option name="BACKGROUND" value="{{theme.colors.base2}}" />
+        <option name="BACKGROUND" value="{{theme.colors.base1}}" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -3240,7 +3240,7 @@
     </option>
     <option name="RUBY_INVALID_ESCAPE_SEQUENCE">
       <value>
-        <option name="EFFECT_COLOR" value="f65f87" />
+        <option name="EFFECT_COLOR" value="{{theme.colors.pink}}" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -3287,7 +3287,7 @@
     </option>
     <option name="RUBY_PARAMETER_ID">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
         {% if italics %}
         <option name="FONT_TYPE" value="2" />
         {% endif %}
@@ -3385,7 +3385,7 @@
     </option>
     <option name="ReSharper.ASP_NET_MVC_VIEW_COMPONENT">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -3443,7 +3443,7 @@
     </option>
     <option name="ReSharper.CPP_DEPENDENT_NAME_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
       </value>
     </option>
     <option name="ReSharper.CPP_DOXYGEN_COMMAND">
@@ -3465,13 +3465,13 @@
     </option>
     <option name="ReSharper.DELEGATE_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="ReSharper.ENUM_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
       </value>
     </option>
     <option name="ReSharper.EVENT_IDENTIFIER">
@@ -3545,7 +3545,7 @@
     </option>
     <option name="SASS_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
@@ -3581,63 +3581,63 @@
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="ffd700" />
+        <option name="FOREGROUND" value="{{theme.colors.yellow}}" />
       </value>
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="87cefa" />
+        <option name="FOREGROUND" value="{{theme.colors.cyan}}" />
       </value>
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="da70d6" />
+        <option name="FOREGROUND" value="{{theme.colors.purple}}" />
       </value>
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="ffd700" />
+        <option name="FOREGROUND" value="{{theme.colors.yellow}}" />
       </value>
     </option>
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="87cefa" />
+        <option name="FOREGROUND" value="{{theme.colors.cyan}}" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="ffd700" />
+        <option name="FOREGROUND" value="{{theme.colors.yellow}}" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="87cefa" />
+        <option name="FOREGROUND" value="{{theme.colors.cyan}}" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="da70d6" />
+        <option name="FOREGROUND" value="{{theme.colors.purple}}" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="ffd700" />
+        <option name="FOREGROUND" value="{{theme.colors.yellow}}" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="87cefa" />
+        <option name="FOREGROUND" value="{{theme.colors.cyan}}" />
       </value>
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="SUGGESTION">
       <value>
-        <option name="EFFECT_COLOR" value="939393" />
+        <option name="EFFECT_COLOR" value="{{theme.colors.base6}}" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -3676,7 +3676,7 @@
     </option>
     <option name="Static property reference ID">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -3698,7 +3698,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="{{theme.colors.base8}}" />
-        <option name="BACKGROUND" value="{{theme.colors.base2}}" />
+        <option name="BACKGROUND" value="{{theme.colors.base1}}" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -3710,8 +3710,8 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="87cefa" />
-        <option name="ERROR_STRIPE_COLOR" value="87cefa" />
+        <option name="FOREGROUND" value="{{theme.colors.cyan}}" />
+        <option name="ERROR_STRIPE_COLOR" value="{{theme.colors.cyan}}" />
       </value>
     </option>
     <option name="TS.MODULE_NAME">
@@ -3784,7 +3784,7 @@
     </option>
     <option name="VELOCITY_NUMBER">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
       </value>
     </option>
     <option name="VELOCITY_SCRIPTING_BACKGROUND">
@@ -3834,12 +3834,12 @@
     </option>
     <option name="XPATH.NUMBER">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
       </value>
     </option>
     <option name="XPATH.STRING">
       <value>
-        <option name="FOREGROUND" value="f59762" />
+        <option name="FOREGROUND" value="{{theme.colors.orange}}" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -3850,7 +3850,7 @@
     </option>
     <option name="YAML_SCALAR_LIST">
       <value>
-        <option name="FOREGROUND" value="c1c0c0" />
+        <option name="FOREGROUND" value="{{theme.colors.base7}}" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
