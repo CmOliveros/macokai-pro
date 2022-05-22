@@ -1,29 +1,29 @@
 default:
   id: "default"
   name: Macokai Pro (Accessible)
-  # all colors were pulled from the official vscode extension
   colors:
     # primary colors
-    red: "#FF6961"
-    pink: "#ff6483"
-    brown: "#b59469"
-    orange: "#ffb340"
-    yellow: "#FFD426"
-    green: "#31DE4B"
-    blue: "#409CFF"
-    purple: "#DA8FFF"
-    mint: "#66d4cf"
+    red: "#FF6962"
+    pink: "#FF6484"
+    brown: "#B69668"
+    orange: "#FFB33F"
+    yellow: "#FFD852"
+    green: "#30DF4C"
+    dark_green: "027d1c"
+    blue: "#5A9CFF"
+    purple: "#DB90FF"
+    mint: "#64D5D1"
     teal: "#5de7ff"
-    dark_purple: "ad44ab"
+    dark_purple: "AF44AE"
     # base colors, sorted from darkest to lightest
     base0: "#181818"
     base1: "#1e1e1e"
-    base2: "#282828"
-    base3: "#3f3f3f"
+    base2: "#2b2b2b"
+    base3: "#434343"
     base4: "#5a5a5a"
     base5: "#717171"
     base6: "#939393"
-    base7: "#c0c0c0"
-    base8: "#fcfcfc"
+    base7: "#dddddd"
+    base8: "#E5E6E6"
     # variants (for when transparency isn't supported)
-    base8x0c: "#353535" # using base2 as bg
+    base8x0c: "#2b2b2b" # using base2 as bg
