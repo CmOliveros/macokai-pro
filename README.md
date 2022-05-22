@@ -1,8 +1,8 @@
 # Macokai Pro
 
-A shameless fork of Subtheme's Monokai Pro theme, modified to match colors with macOS. I thoroughly welcome somebody who knows anything about Jetbrains themes/Java to improve this.  
+A shameless fork of Subtheme's Monokai Pro theme, modified to match colors with macOS.  
   
-This repo is a mess. Feel free to fix it at my [GitHub](https://github.com/CmOliveros/macokai-pro).  
+This repo is a mess. I thoroughly welcome somebody who knows anything about Jetbrains themes/Java to improve this at my [GitHub](https://github.com/CmOliveros/macokai-pro).  
   
 Screenshots were taken with [Atom Material Icons](https://plugins.jetbrains.com/plugin/10044-atom-material-icons).  
   
