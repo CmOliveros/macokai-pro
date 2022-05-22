@@ -1,6 +1,7 @@
 default:
   id: "default"
   name: Macokai Pro (Accessible)
+  # all colors were pulled from the official vscode extension
   colors:
     # primary colors
     red: "#FF6961"
@@ -9,7 +10,6 @@ default:
     orange: "#ffb340"
     yellow: "#FFD426"
     green: "#31DE4B"
-    dark_green: "027d1c"
     blue: "#409CFF"
     purple: "#DA8FFF"
     mint: "#66d4cf"
