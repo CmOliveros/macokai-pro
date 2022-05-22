@@ -1,11 +1,12 @@
-# Monokai Pro
+# Macokai Pro
 
-The unofficial Monokai Pro theme, adapted by [Subtheme](https://subtheme.dev). This repository includes the default theme, classic theme, and four filters: Machine, Octagon, Ristretto, and Spectrum. Credit goes to the original creator: [https://monokai.pro](https://monokai.pro).
-
-This theme is functionally complete for JetBrains, but more work is needed to match language specific colors with the official theme (as seen in Sublime or VSCode). Focus is currently on Java and Python, but pull requests are welcome for any language.
-
-Supported apps:
-- [JetBrains](theme/jetbrains)
+A shameless fork of Subtheme's Monokai Pro theme, modified to match colors with macOS. I thoroughly welcome somebody who knows anything about Java to improve this.  
+  
+This repo is a mess. Feel free to fix it at my [GitHub](https://github.com/CmOliveros/macokai-pro).  
+  
+Screenshots were taken with [Atom Material Icons](https://plugins.jetbrains.com/plugin/10044-atom-material-icons).  
+  
+![](https://i.imgur.com/m0IOJHA.png)
 
 To build, use [sublate](https://github.com/espositocode/sublate):
 
